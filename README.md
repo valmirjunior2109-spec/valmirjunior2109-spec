@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">💼 Atualmente desenvolvendo a Droxly, uma plataforma SaaS para gestão financeira pessoal com interface inspirada em ferramentas de produtividade como o Obsidian.<br><br>📚 Compartilho no GitHub projetos de estudo, experimentos e ideias aplicadas ao mundo real.<br><br>🎯 Foco em: [Sua linguagem principal], [Seu framework], [Sua área de interesse].</p>
+<p align="center">💼 Atualmente desenvolvendo a Droxly, uma plataforma SaaS para gestão financeira pessoal com interface inspirada em ferramentas de produtividade como o Obsidian.<br><br>📚 Compartilho no GitHub projetos de estudo, experimentos e ideias aplicadas ao mundo real.</p>
 
 ###
 
