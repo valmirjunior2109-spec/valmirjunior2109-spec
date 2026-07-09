@@ -1,4 +1,4 @@
-```markdown
+
 # 🌎 Connect With Me
 
 <p align="left">
@@ -21,4 +21,4 @@ On X, I post about:
 - 📚 What I'm learning every day
 
 **X (Twitter):** https://x.com/valmir_jr0
-```
+
