@@ -6,7 +6,7 @@
 
 Building AI products, learning by shipping, and sharing the journey.
 
-[![Website](https://img.shields.io/badge/Publishub-Visit%20Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://getpublishub.com)
+[![Publishub](https://img.shields.io/badge/Publishub-Visit%20Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://getpublishub.com)
 [![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/valmir_jr0)
 
 📍 Salvador, Brazil 🇧🇷
@@ -40,9 +40,9 @@ Publishub aims to help creators identify opportunities to improve their videos, 
 
 *Currently focused on product development and validation.*
 
-## 🛠️ Technologies
+## 🛠️ Technologies & Tools
 
-### Languages & Fundamentals
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Python, JavaScript, HTML and CSS"/>
@@ -52,9 +52,10 @@ Publishub aims to help creators identify opportunities to improve their videos, 
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase,git,github,vscode" alt="FastAPI, Flask, PostgreSQL, Supabase, Git, GitHub and VS Code"/>
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude"/>
 </p>
 
-*Technologies I'm learning and using as I build projects.*
+*Technologies and tools I'm learning and using as I build projects.*
 
 ## 🎯 Current Focus
 
