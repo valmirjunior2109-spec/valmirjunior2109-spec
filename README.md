@@ -1,5 +1,7 @@
 
-<!-- ================= HEADER ================= -->
+<!-- ===================================================== -->
+<!--                    HEADER                             -->
+<!-- ===================================================== -->
 
 <div align="center">
 
@@ -12,23 +14,25 @@ Building products. Exploring technology. Shipping ideas.
 <br/>
 
 <a href="https://getpublishub.com">
-  <img src="https://img.shields.io/badge/PUBLISHUB-6366F1?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBLISHUB-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Publishub" />
 </a>
 <a href="https://github.com/valmirjunior2109-spec">
-  <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Location-Salvador%2C%20Brazil-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Status-Building-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Salvador%2C%20Brazil-161B22?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-161B22?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Status-Building-161B22?style=flat-square" alt="Status" />
 
 </div>
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
+<!-- ===================================================== -->
+<!--                    ABOUT ME                           -->
+<!-- ===================================================== -->
 
 ## 👨‍💻 About Me
 
@@ -44,14 +48,16 @@ I believe in learning by building, experimenting, and shipping real products.
 
 ---
 
-<!-- ================= CURRENT PROJECT ================= -->
+<!-- ===================================================== -->
+<!--                 CURRENT PROJECT                       -->
+<!-- ===================================================== -->
 
 ## 🚀 What I'm Building
 
 <div align="center">
 
 <a href="https://getpublishub.com">
-  <img src="https://img.shields.io/badge/PUBLISHUB-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUBLISHUB-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Publishub" />
 </a>
 
 ### Publishub
@@ -60,7 +66,7 @@ I believe in learning by building, experimenting, and shipping real products.
 
 </div>
 
-Publishub is a product focused on evaluating AI-generated applications and helping developers identify potential security vulnerabilities and code quality issues.
+Publishub is focused on evaluating AI-generated applications and helping developers identify potential security vulnerabilities and code quality issues.
 
 **Current mission:**
 
@@ -73,7 +79,9 @@ Publishub is a product focused on evaluating AI-generated applications and helpi
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +89,7 @@ Publishub is a product focused on evaluating AI-generated applications and helpi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql&perline=6" alt="Programming Languages" />
 
 </div>
 
@@ -89,13 +97,15 @@ Publishub is a product focused on evaluating AI-generated applications and helpi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react&perline=6" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,nodejs,react&perline=6" alt="Tools and Technologies" />
 
 </div>
 
 ---
 
-<!-- ================= CURRENTLY EXPLORING ================= -->
+<!-- ===================================================== -->
+<!--                 CURRENTLY EXPLORING                    -->
+<!-- ===================================================== -->
 
 ## 🌱 Currently Exploring
 
@@ -109,53 +119,66 @@ Publishub is a product focused on evaluating AI-generated applications and helpi
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB STATS                          -->
+<!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=valmirjunior2109-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmirjunior2109-spec&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=valmirjunior2109-spec&theme=tokyonight&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=valmirjunior2109-spec&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+  width="70%"
+/>
 
 </div>
 
 ---
 
-<!-- ================= CONTRIBUTION GRAPH ================= -->
+<!-- ===================================================== -->
+<!--                  GITHUB PROFILE                       -->
+<!-- ===================================================== -->
 
-## 📈 Contribution Activity
+## 💻 Explore My Work
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=valmirjunior2109-spec&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/valmirjunior2109-spec?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-238636?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
+<a href="https://github.com/valmirjunior2109-spec">
+  <img src="https://img.shields.io/badge/Visit-My%20GitHub-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
+</a>
 
 </div>
 
 ---
 
-<!-- ================= CONNECT ================= -->
+<!-- ===================================================== -->
+<!--                    CONNECT                            -->
+<!-- ===================================================== -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/valmirjunior2109-spec">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://instagram.com/valmir.py">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+
 <a href="https://x.com/valmir_md">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
+
 <a href="https://getpublishub.com">
-  <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
 
 <br/><br/>
@@ -166,11 +189,13 @@ I'm always open to connecting with developers, founders, and builders.
 
 ---
 
-<!-- ================= FOOTER ================= -->
+<!-- ===================================================== -->
+<!--                     FOOTER                            -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=valmirjunior2109-spec&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=valmirjunior2109-spec&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" alt="Profile Views" />
 
 <br/><br/>
 
