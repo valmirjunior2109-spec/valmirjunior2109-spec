@@ -1,92 +1,189 @@
- <div align="center">
 
-# Hey, I'm Valmir Júnior 👋
+<!-- ================= HERO SECTION ================= -->
 
-### Software Developer in Progress · Indie Hacker · SaaS Builder
+<div align="center">
 
-Building AI products, learning by shipping, and sharing the journey.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Valmir+J%C3%BAnior+%F0%9F%91%8B;Software+Developer;Indie+Hacker;AI+Builder" alt="Typing SVG" />
 
-[![Publishub](https://img.shields.io/badge/Publishub-Visit%20Website-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://getpublishub.com)
-[![X](https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/valmir_jr0)
+  <h3>Building products. Exploring technology. Shipping ideas.</h3>
 
-📍 Salvador, Brazil 🇧🇷
+  <p>
+    <img src="https://img.shields.io/badge/Location-Salvador%2C%20Brazil-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Focus-Software%20%26%20AI-161B22?style=flat-square&logo=probot&logoColor=58A6FF" />
+    <img src="https://img.shields.io/badge/Status-Building-161B22?style=flat-square&logo=rocket&logoColor=58A6FF" />
+  </p>
+
+  <a href="https://getpublishub.com">
+    <img src="https://img.shields.io/badge/🚀_PUBLISHUB-Visit%20Website-238636?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/valmirjunior2109-spec">
+    <img src="https://img.shields.io/badge/GITHUB-Follow-21262D?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<!-- ================= ABOUT ME ================= -->
 
-I'm a Brazilian developer and indie hacker interested in software engineering, artificial intelligence, and startups.
+## 👨‍💻 About Me
 
-I'm currently building **[Publishub](https://getpublishub.com)**, an AI-powered product focused on helping video creators improve their content through intelligent video analysis and actionable editing insights.
+```typescript
+const valmir = {
+    name: "Valmir Júnior",
+    location: "Salvador, Brazil 🇧🇷",
+    role: ["Software Developer", "Indie Hacker", "AI Builder"],
+    interests: [
+        "Software Engineering",
+        "Artificial Intelligence",
+        "SaaS Development",
+        "Startups & Entrepreneurship",
+        "Open Source"
+    ],
+    currentFocus: "Building AI-powered products",
+    mindset: "Learn by building. Build by shipping."
+};
 
-I believe in learning by building, talking to users, testing ideas, and shipping real products.
+```
 
-My journey combines software development, product experimentation, and building in public.
+I'm a Brazilian developer passionate about technology, software engineering, and entrepreneurship.
 
-## 🎬 What I'm Building
+I enjoy transforming ideas into real products, experimenting with emerging technologies, and solving problems through software.
 
-### [Publishub](https://getpublishub.com)
+Currently building products, exploring AI engineering, and improving my development skills through hands-on projects.
 
-**AI tools for video creators.**
+---
 
-Publishub aims to help creators identify opportunities to improve their videos, strengthen their hooks, and make better editing decisions.
+<!-- ================= CURRENT PROJECT ================= -->
 
-- 🤖 AI-powered video analysis
-- 🎯 Actionable feedback for video creators
-- ✂️ Insights to improve hooks, cuts, and subtitles
-- 🚀 Building and validating the product with real users
+## 🚀 What I'm Building
 
-*Currently focused on product development and validation.*
+<div align="center">
+
+  <a href="https://getpublishub.com">
+    <img src="https://img.shields.io/badge/PUBLISHUB-AI%20%2B%20CODE-6366F1?style=for-the-badge&logo=codefactor&logoColor=white" />
+  </a>
+
+  <h3>Publishub</h3>
+
+  <p>
+    Making AI-generated code more reliable.
+  </p>
+
+</div>
+
+I'm working on Publishub, a product focused on evaluating AI-generated code and helping vibe coders identify potential security and quality issues in their applications.
+
+**Current mission:**
+
+- Evaluate AI-generated applications.
+- Identify potential security vulnerabilities.
+- Improve code quality and reliability.
+- Help developers ship better software.
+
+🌐 https://getpublishub.com
+
+---
+
+<!-- ================= TECH STACK ================= -->
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Python, JavaScript, HTML and CSS"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,sql" />
 </p>
 
-### Backend, Data & Tools
+### Tools & Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,supabase,git,github,vscode" alt="FastAPI, Flask, PostgreSQL, Supabase, Git, GitHub and VS Code"/>
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,nodejs" />
 </p>
 
-*Technologies and tools I'm learning and using as I build projects.*
+### Currently Exploring
 
-## 🎯 Current Focus
-
-- 🚀 Building and validating Publishub
-- 🤖 Exploring AI-powered software products
-- 💻 Improving my software engineering fundamentals
-- 🐍 Developing with Python and learning JavaScript
-- 🗄️ Learning backend development, APIs, and databases
-- 🌱 Sharing lessons and experiments through building in public
-
-## 📌 My Approach
-
-I care about more than writing code.
-
-- **Build:** Turn ideas into working products.
-- **Validate:** Talk to users and understand real problems.
-- **Learn:** Improve through experimentation and feedback.
-- **Ship:** Focus on progress and continuous iteration.
-
-## 🌎 Connect With Me
-
-- 🌐 **Website:** [getpublishub.com](https://getpublishub.com)
-- 𝕏 **X:** [@valmir_jr0](https://x.com/valmir_jr0)
-- 💻 **GitHub:** You're already here!
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,postgres,supabase,aws" />
+</p>
 
 ---
 
+<!-- ================= GITHUB ANALYTICS ================= -->
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### Build. Learn. Ship. Repeat. 🚀
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=valmirjunior2109-spec&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 
-*Building from Brazil, thinking globally.*
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valmirjunior2109-spec&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=valmirjunior2109-spec&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=valmirjunior2109-spec&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CURRENTLY LEARNING ================= -->
+
+## 🌱 Currently Exploring
+
+```javascript
+const learning = [
+  "Software Engineering",
+  "AI Engineering",
+  "Full-Stack Development",
+  "Backend Architecture",
+  "Application Security",
+  "Open Source Development"
+];
+
+learning.forEach(topic => console.log(`Exploring: ${topic}`));
+```
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/valmirjunior2109-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://getpublishub.com">
+    <img src="https://img.shields.io/badge/Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <!-- Add your X, LinkedIn and other social links here -->
+
+</div>
+
+<br/>
+
+<div align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=valmirjunior2109-spec&label=PROFILE%20VIEWS&color=6366f1&style=flat-square" />
+
+  <br/><br/>
+
+  <i>"Build things that matter. Learn continuously. Keep shipping."</i>
 
 </div>
